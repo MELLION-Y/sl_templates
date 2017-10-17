@@ -206,7 +206,7 @@
          "s2cor__Ledger_Account__c":"PurchaseOfGoods_FR",
          "s2cor__Rule_Type__c":"Item",
          "s2cor__Source_Application__c":"Sage Financials",
-         "s2cor__Source_Document__c":"Reconnaissance de dépenses",
+         "s2cor__Source_Document__c":"Reconnaissance de depenses",
          "s2cor__Unit_Credit__c":null,
          "s2cor__Unit_Debit__c":null,
          "s2cor__Unit__c":null,
